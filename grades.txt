@@ -1,0 +1,5 @@
+Alice 15
+Bob 12
+Charlie 18
+Guru 20
+Amal 13
