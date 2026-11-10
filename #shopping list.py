@@ -2,7 +2,7 @@
 
 shopping_list = []
 while True:
-    print("\n1 add, 2 remove, 3 show, 4 clear, 0 quit")
+    print("1 add, 2 remove, 3 show, 4 clear, 0 quit")
     choice = input("Enter choice: ").strip()
     
     if choice == "1":
